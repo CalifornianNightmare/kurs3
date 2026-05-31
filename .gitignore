@@ -1,0 +1,6 @@
+artifacts/*
+build_tools/*
+data/*
+__pycache__
+.venv
+.~*
